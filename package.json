@@ -2,7 +2,7 @@
   "name": "todolist",
   "version": "0.1.0",
   "private": true,
-  "homePage": "https://DhuhaSaadon.github.io/Todo-App-with-React",
+  "homePage": "https://DhuhaSaadon.github.io/Todo-App-with-React/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
